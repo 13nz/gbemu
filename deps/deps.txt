@@ -1,0 +1,5 @@
+sdl2 (bre install sdl2)
+(build-essential)
+cmake (brew install cmake)
+sdl2-ttf (brew install sdl2-ttf)
+check (brew install check)
